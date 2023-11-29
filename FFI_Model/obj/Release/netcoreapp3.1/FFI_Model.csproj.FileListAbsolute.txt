@@ -1,0 +1,10 @@
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Release\netcoreapp3.1\FFI_Model.deps.json
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Release\netcoreapp3.1\FFI_Model.dll
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Release\netcoreapp3.1\FFI_Model.pdb
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Release\netcoreapp3.1\FFI_Model.csproj.AssemblyReference.cache
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Release\netcoreapp3.1\FFI_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Release\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Release\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Release\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Release\netcoreapp3.1\FFI_Model.dll
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Release\netcoreapp3.1\FFI_Model.pdb

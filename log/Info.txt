@@ -1,0 +1,10 @@
+ [17/09/2020 05:41:23.344 PM]- SP Name  - Admin_fetch_roleactivity
+ [17/09/2020 05:41:23.352 PM]- Input Parametersflexi,chennai,admin,en_US,2,ORG_FPO
+ [17/09/2020 05:41:48.766 PM]- Output Parameters -
+ [17/09/2020 05:42:42.208 PM]- Output Parameters -
+ [17/09/2020 05:48:01.125 PM]- SP Name  - Admin_fetch_roleactivity
+ [17/09/2020 05:48:01.132 PM]- Input Parametersflexi,chennai,admin,en_US,2,ORG_FPO
+ [17/09/2020 05:48:21.134 PM]- Output Parameters -
+ [17/09/2020 06:03:39.053 PM]- SP Name  - Admin_fetch_roleactivity
+ [17/09/2020 06:03:39.054 PM]- Input Parametersflexi,chennai,admin,en_US,2,ORG_FPO
+ [17/09/2020 06:05:44.522 PM]- Output Parameters -

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FFI_DataModel\FFI_DataModel.csproj" />
+    <ProjectReference Include="..\FFI_Model\FFI_Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\FFI_API\bin\Debug\netcoreapp3.1\log4net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
