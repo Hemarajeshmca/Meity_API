@@ -1,0 +1,312 @@
+ [06/02/2023 03:42:41.182 PM]- USERNAME :UFPCLTN  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 163
+ [06/02/2023 03:43:08.426 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('UFPCLTN', 'UFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [06/02/2023 03:43:14.520 PM]- Call PAWHS_Fetch_POset @In_po_date = '0';set @In_buyer_code = '0';set @In_buyer_name = '0';set @In_buyer_location = '0';set @In_buyer_location_desc = '0'; set @In_po_remarks = '0'; set @In_status_code = '0'; set @In_bill_attachment = '0'; set @In_mode_flag = '0'; set @IOU_PO_rowid = 0; set @IOU_agg_code = '0'; set @IOU_agg_name = '0'; set @IOU_PO_No = '0'; set @In_OrderBy = '0'; set @In_OrderByNO = '0'; set @In_TakenBy = '0'; set @In_TakenByNo = '0';call New_PAWHS_Fetch_PO('UFPCL-TN', 'up', 'UFPCLTN', 'en_US', objfpoSearch.IOU_PO_rowid, 'AGG/21092022/023','NONPO2023-02-06 15:28:36', @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo); select @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo; 
+ [06/02/2023 03:43:30.593 PM]- call SaleEntryListcall New_PAWHS_Fetch_SaleEntry_List('UFPCL-TN', 'up', 'UFPCLTN','en_US','ALL','.','.','.' )
+ [06/02/2023 03:44:19.428 PM]- Call FetchSaleEntry set @In_buyer_code = '0'; set @In_buyer_name = '0'; set @In_item_name = '0'; set @In_sale_qty = 0; set @In_sale_price = 0; set @In_sale_value = 0; set @In_sale_date = '0'; set @In_advance_amt = 0; set @In_pickup_date = '0'; set @In_no_of_bags = 0;set @In_payment_type = '0'; set @In_bank_acc_no = '0'; set @In_cheque_no = '0'; set @In_status = '0'; set @In_sale_remarks = '0'; set @In_sale_attach = '0'; set @In_vehicle_type = '0'; set @In_vehicle_no = '0'; set @In_qcperson_name = '0'; set @In_LRP_Name = '0'; set @In_LRP_Mobile_no = '0'; set @In_whs_code = '0'; set @In_whs_name = '0'; set @IOU_sale_rowid1 = 0; set @IOU_agg_code1 = '0'; set @IOU_sale_no1 = '0'; set @In_crop_variety = '0'; call odisha_pilot.New_PAWHS_Fetch_SaleEntry('UFPCL-TN', 'up', 'UFPCLTN', 'en_US', 256, 'AGG/21092022/023', 'SAL/Uth/060223/00006', @In_buyer_code, @In_buyer_name, @In_item_name, @In_sale_qty, @In_sale_price, @In_sale_value, @In_sale_date, @In_advance_amt, @In_pickup_date, @In_no_of_bags, @In_payment_type, @In_bank_acc_no, @In_cheque_no, @In_status, @In_sale_remarks, @In_sale_attach, @In_vehicle_type, @In_vehicle_no, @In_qcperson_name, @In_LRP_Name, @In_LRP_Mobile_no, @In_whs_code, @In_whs_name, @IOU_sale_rowid1, @IOU_agg_code1, @IOU_sale_no1, @In_crop_variety);select @In_buyer_code, @In_buyer_name, @In_item_name, @In_sale_qty, @In_sale_price, @In_sale_value, @In_sale_date, @In_advance_amt, @In_pickup_date, @In_no_of_bags, @In_payment_type, @In_bank_acc_no, @In_cheque_no, @In_status, @In_sale_remarks, @In_sale_attach, @In_vehicle_type, @In_vehicle_no, @In_qcperson_name, @In_LRP_Name, @In_LRP_Mobile_no, @In_whs_code, @In_whs_name, @IOU_sale_rowid1, @IOU_agg_code1, @IOU_sale_no1, @In_crop_variety;
+ [06/02/2023 03:44:36.119 PM]- call SaleEntryListcall New_PAWHS_Fetch_SaleEntry_List('UFPCL-TN', 'up', 'UFPCLTN','en_US','ALL','.','.','.' )
+ [06/02/2023 03:54:22.876 PM]- USERNAME :UFPCLTN  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 163
+ [07/02/2023 12:18:26.098 PM]- System.ArgumentException: Column 'FARMER NAME' does not belong to table Table1.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FFI_Service.ICDData_Service.GetICDInvoiceList(ICDInvoiceInputParams objparam, String orgn_code, String constring) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\ICDData_Service.cs:line 55
+ [07/02/2023 12:26:28.914 PM]- System.ArgumentException: Column 'FARMER NAME' does not belong to table Table1.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FFI_Service.ICDData_Service.GetICDInvoiceList(ICDInvoiceInputParams objparam, String orgn_code, String constring) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\ICDData_Service.cs:line 55
+ [07/02/2023 12:28:41.815 PM]- System.ArgumentException: Column 'DISTRICT' does not belong to table Table1.
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FFI_Service.ICDData_Service.GetICDInvoiceList(ICDInvoiceInputParams objparam, String orgn_code, String constring) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\ICDData_Service.cs:line 59
+ [09/02/2023 12:50:59.476 PM]- System.ArgumentException: Parameter 'In_product_name' not found in the collection.
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 12:53:35.129 PM]- System.ArgumentException: Parameter 'In_product_name' not found in the collection.
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 03:06:47.616 PM]- System.ArgumentException: Parameter 'In_product_name' not found in the collection.
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 03:10:41.871 PM]- System.ArgumentException: Parameter 'In_product_name' not found in the collection.
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 03:18:32.861 PM]- System.ArgumentException: Parameter 'In_product_name' not found in the collection.
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 03:21:46.317 PM]- MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'In_product_name' in 'field list'
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 03:37:59.585 PM]- MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'In_product_name' in 'field list'
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 04:08:03.907 PM]- MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'In_product_name' in 'where clause'
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 04:09:04.355 PM]- MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'In_product_name' in 'where clause'
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [09/02/2023 04:18:34.415 PM]- MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'In_product_name' in 'where clause'
+   at FFI_Service.PAWHSProductmaster_service.newSaveProductMaster(PAWHSProductmasterSApplication objmodel, String MysqlCon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 62
+   at FFI_API.Controllers.PAWHSProductMasterController.newSaveProductMaster(PAWHSProductmasterSApplication SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 80
+ [10/02/2023 12:03:27.652 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('LVFPCLTN', 'LVFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [10/02/2023 12:03:39.634 PM]- Call PAWHS_Fetch_POset @In_po_date = '0';set @In_buyer_code = '0';set @In_buyer_name = '0';set @In_buyer_location = '0';set @In_buyer_location_desc = '0'; set @In_po_remarks = '0'; set @In_status_code = '0'; set @In_bill_attachment = '0'; set @In_mode_flag = '0'; set @IOU_PO_rowid = 0; set @IOU_agg_code = '0'; set @IOU_agg_name = '0'; set @IOU_PO_No = '0'; set @In_OrderBy = '0'; set @In_OrderByNO = '0'; set @In_TakenBy = '0'; set @In_TakenByNo = '0';call New_PAWHS_Fetch_PO('LVFPCL-TN', 'up', 'LVFPCLTN', 'en_US', objfpoSearch.IOU_PO_rowid, 'AGG/08092022/007','NONPO2023-02-08 13:38:50', @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo); select @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo; 
+ [10/02/2023 12:04:48.740 PM]- call SaleEntryListcall New_PAWHS_Fetch_SaleEntry_List('LVFPCL-TN', 'up', 'LVFPCLTN','en_US','ALL','.','.','.' )
+ [10/02/2023 01:13:12.163 PM]- call SaleEntryListcall New_PAWHS_Fetch_SaleEntry_List('LVFPCL-TN', 'up', 'LVFPCLTN','en_US','ALL','.','.','.' )
+ [10/02/2023 05:32:59.225 PM]- System.NullReferenceException: Object reference not set to an instance of an object.
+   at FFI_Service.PAWHSProductmaster_service.Single_ProductMaster(PAWHSProductmasterFContext objfarmer, String Mysql) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 43
+   at FFI_API.Controllers.PAWHSProductMasterController.Single_ProductMaster(PAWHSProductmasterFContext SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 57
+ [10/02/2023 05:33:26.485 PM]- System.NullReferenceException: Object reference not set to an instance of an object.
+   at FFI_Service.PAWHSProductmaster_service.Single_ProductMaster(PAWHSProductmasterFContext objfarmer, String Mysql) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\PAWHSProductmaster_service.cs:line 43
+   at FFI_API.Controllers.PAWHSProductMasterController.Single_ProductMaster(PAWHSProductmasterFContext SobjContext) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_API\Controllers\PAWHSProductMasterController.cs:line 57
+ [10/02/2023 06:36:06.772 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('UFPCLTN', 'UFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [10/02/2023 06:36:15.720 PM]- Call PAWHS_Fetch_POset @In_po_date = '0';set @In_buyer_code = '0';set @In_buyer_name = '0';set @In_buyer_location = '0';set @In_buyer_location_desc = '0'; set @In_po_remarks = '0'; set @In_status_code = '0'; set @In_bill_attachment = '0'; set @In_mode_flag = '0'; set @IOU_PO_rowid = 0; set @IOU_agg_code = '0'; set @IOU_agg_name = '0'; set @IOU_PO_No = '0'; set @In_OrderBy = '0'; set @In_OrderByNO = '0'; set @In_TakenBy = '0'; set @In_TakenByNo = '0';call New_PAWHS_Fetch_PO('UFPCL-TN', 'up', 'UFPCLTN', 'en_US', objfpoSearch.IOU_PO_rowid, 'AGG/08092022/011','NONPO2023-01-06 19:54:34', @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo); select @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo; 
+ [10/02/2023 06:36:28.600 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('UFPCLTN', 'UFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [13/02/2023 04:55:55.099 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [13/02/2023 05:01:09.512 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('TFPCLTN', 'TFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [13/02/2023 05:02:04.905 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('TFPCLTN', 'TFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [13/02/2023 05:05:37.228 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [13/02/2023 05:13:46.898 PM]- call SaleEntryListcall New_PAWHS_Fetch_SaleEntry_List('UFPCL-TN', 'up', 'UFPCLTN','en_US','ALL','.','.','.' )
+ [13/02/2023 05:15:27.817 PM]- call SaleEntryListcall New_PAWHS_Fetch_SaleEntry_List('TFPCL-TN', 'up', 'TFPCLTN','en_US','ALL','.','.','.' )
+ [13/02/2023 05:17:15.534 PM]- Call FetchSaleEntry set @In_buyer_code = '0'; set @In_buyer_name = '0'; set @In_item_name = '0'; set @In_sale_qty = 0; set @In_sale_price = 0; set @In_sale_value = 0; set @In_sale_date = '0'; set @In_advance_amt = 0; set @In_pickup_date = '0'; set @In_no_of_bags = 0;set @In_payment_type = '0'; set @In_bank_acc_no = '0'; set @In_cheque_no = '0'; set @In_status = '0'; set @In_sale_remarks = '0'; set @In_sale_attach = '0'; set @In_vehicle_type = '0'; set @In_vehicle_no = '0'; set @In_qcperson_name = '0'; set @In_LRP_Name = '0'; set @In_LRP_Mobile_no = '0'; set @In_whs_code = '0'; set @In_whs_name = '0'; set @IOU_sale_rowid1 = 0; set @IOU_agg_code1 = '0'; set @IOU_sale_no1 = '0'; set @In_crop_variety = '0'; call odisha_pilot.New_PAWHS_Fetch_SaleEntry('TFPCL-TN', 'up', 'TFPCLTN', 'en_US', 406, 'AGG/21092022/029', 'SAL/The/110223/00108', @In_buyer_code, @In_buyer_name, @In_item_name, @In_sale_qty, @In_sale_price, @In_sale_value, @In_sale_date, @In_advance_amt, @In_pickup_date, @In_no_of_bags, @In_payment_type, @In_bank_acc_no, @In_cheque_no, @In_status, @In_sale_remarks, @In_sale_attach, @In_vehicle_type, @In_vehicle_no, @In_qcperson_name, @In_LRP_Name, @In_LRP_Mobile_no, @In_whs_code, @In_whs_name, @IOU_sale_rowid1, @IOU_agg_code1, @IOU_sale_no1, @In_crop_variety);select @In_buyer_code, @In_buyer_name, @In_item_name, @In_sale_qty, @In_sale_price, @In_sale_value, @In_sale_date, @In_advance_amt, @In_pickup_date, @In_no_of_bags, @In_payment_type, @In_bank_acc_no, @In_cheque_no, @In_status, @In_sale_remarks, @In_sale_attach, @In_vehicle_type, @In_vehicle_no, @In_qcperson_name, @In_LRP_Name, @In_LRP_Mobile_no, @In_whs_code, @In_whs_name, @IOU_sale_rowid1, @IOU_agg_code1, @IOU_sale_no1, @In_crop_variety;
+ [13/02/2023 05:19:27.459 PM]- call SaleEntryListcall New_PAWHS_Fetch_SaleEntry_List('TFPCL-TN', 'up', 'TFPCLTN','en_US','ALL','.','.','.' )
+ [13/02/2023 05:23:21.816 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [13/02/2023 05:23:46.484 PM]- USERNAME :TFPCLTN  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 163
+ [16/03/2023 04:22:23.929 PM]- USERNAME :LRP2  METHOD NAME  :divident_reg ERROR  : System.ArgumentException: Column 'In_dividend_rowid' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FFI_DataModel.FISDividentRegister_DataModel.divident_reg(DivRegContext objinvoice, String mysqlcon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\FISDividentRegister_DataModel.cs:line 63
+ [16/03/2023 04:23:01.912 PM]- USERNAME :LRP2  METHOD NAME  :divident_reg ERROR  : System.ArgumentException: Column 'In_dividend_rowid' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FFI_DataModel.FISDividentRegister_DataModel.divident_reg(DivRegContext objinvoice, String mysqlcon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\FISDividentRegister_DataModel.cs:line 63
+ [16/03/2023 04:23:24.272 PM]- USERNAME :LRP2  METHOD NAME  :divident_reg ERROR  : System.ArgumentException: Column 'In_dividend_rowid' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FFI_DataModel.FISDividentRegister_DataModel.divident_reg(DivRegContext objinvoice, String mysqlcon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\FISDividentRegister_DataModel.cs:line 63
+ [16/03/2023 04:24:42.564 PM]- USERNAME :LRP2  METHOD NAME  :divident_reg ERROR  : System.ArgumentException: Column 'In_dividend_rowid' does not belong to table .
+   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at FFI_DataModel.FISDividentRegister_DataModel.divident_reg(DivRegContext objinvoice, String mysqlcon) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\FISDividentRegister_DataModel.cs:line 63
+ [29/03/2023 11:58:56.719 AM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [29/03/2023 11:58:56.719 AM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [29/03/2023 12:01:55.230 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('KLVFPCLTN', 'KLVFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [29/03/2023 12:02:33.307 PM]- Call PAWHS_Fetch_POset @In_po_date = '0';set @In_buyer_code = '0';set @In_buyer_name = '0';set @In_buyer_location = '0';set @In_buyer_location_desc = '0'; set @In_po_remarks = '0'; set @In_status_code = '0'; set @In_bill_attachment = '0'; set @In_mode_flag = '0'; set @IOU_PO_rowid = 0; set @IOU_agg_code = '0'; set @IOU_agg_name = '0'; set @IOU_PO_No = '0'; set @In_OrderBy = '0'; set @In_OrderByNO = '0'; set @In_TakenBy = '0'; set @In_TakenByNo = '0';call New_PAWHS_Fetch_PO('KLVFPCL-TN', 'up', 'KLVFPCLTN', 'en_US', objfpoSearch.IOU_PO_rowid, 'AGG/21092022/037','NONPO2023-02-07 16:02:02', @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo); select @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo; 
+ [29/03/2023 12:05:07.142 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('KLVFPCLTN', 'KLVFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [29/03/2023 02:45:29.087 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('KLVFPCLTN', 'KLVFPCL-TN', 'up','en_US','ALL','.','.','.' )
+ [29/03/2023 02:50:32.773 PM]- Call PAWHS_PO_saveset @IOU_po_rowid = 0;set @IOU_PO_No = '0';set @IOU_ErroNo = '0';call  New_PAWHS_insupd_PO(0, 'KLVFPCL-TN', '11', '2023/03/29', 'MANDI/01101', 'MANDI/01101', 'Tamil Nadu', 'rem454','A', 'I', '2018-04-05', '', 'KLVFPCL-TN', 'up', 'KLVFPCLTN', 'en_US', 'natarajan', '8525897576', 'natarajan', '8525897576', @IOU_po_rowid, @IOU_PO_No, @IOU_ErroNo);select @IOU_po_rowid, @IOU_PO_No, @IOU_ErroNo; 
+ [29/03/2023 02:50:33.279 PM]- Call PAWHS_Fetch_POset @In_po_date = '0';set @In_buyer_code = '0';set @In_buyer_name = '0';set @In_buyer_location = '0';set @In_buyer_location_desc = '0'; set @In_po_remarks = '0'; set @In_status_code = '0'; set @In_bill_attachment = '0'; set @In_mode_flag = '0'; set @IOU_PO_rowid = 0; set @IOU_agg_code = '0'; set @IOU_agg_name = '0'; set @IOU_PO_No = '0'; set @In_OrderBy = '0'; set @In_OrderByNO = '0'; set @In_TakenBy = '0'; set @In_TakenByNo = '0';call New_PAWHS_Fetch_PO('KLVFPCL-TN', 'up', 'KLVFPCLTN', 'en_US', objfpoSearch.IOU_PO_rowid, 'KLVFPCL-TN','11', @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo); select @In_po_date, @In_buyer_code, @In_buyer_name, @In_buyer_location, @In_buyer_location_desc, @In_po_remarks, @In_status_code, @In_bill_attachment, @In_mode_flag, @IOU_PO_rowid, @IOU_agg_code, @IOU_agg_name, @IOU_PO_No, @In_OrderBy, @In_OrderByNO, @In_TakenBy, @In_TakenByNo; 
+ [29/03/2023 02:56:15.149 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [03/04/2023 03:22:18.252 PM]- USERNAME :ADMIN  METHOD NAME  :SaveBulkScalar ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.Admin_BulkUpload_Datamodel.SaveBulkScalar(ScalerApplication objRole, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\Admin_Bulkupload_Datamodel.cs:line 201
+ [03/04/2023 03:28:45.496 PM]- USERNAME :ADMIN  METHOD NAME  :SaveBulkScalar ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.Admin_BulkUpload_Datamodel.SaveBulkScalar(ScalerApplication objRole, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\Admin_Bulkupload_Datamodel.cs:line 201
+ [03/04/2023 03:29:22.884 PM]- USERNAME :ADMIN  METHOD NAME  :SaveBulkScalar ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.Admin_BulkUpload_Datamodel.SaveBulkScalar(ScalerApplication objRole, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\Admin_Bulkupload_Datamodel.cs:line 201
+ [03/04/2023 03:32:47.413 PM]- USERNAME :ADMIN  METHOD NAME  :SaveBulkScalar ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.Admin_BulkUpload_Datamodel.SaveBulkScalar(ScalerApplication objRole, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\Admin_Bulkupload_Datamodel.cs:line 201
+ [03/04/2023 03:39:42.252 PM]- USERNAME :ADMIN  METHOD NAME  :SaveBulkScalar ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.Admin_BulkUpload_Datamodel.SaveBulkScalar(ScalerApplication objRole, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\Admin_Bulkupload_Datamodel.cs:line 201
+ [03/04/2023 05:55:25.707 PM]- USERNAME :ADMIN  METHOD NAME  :SaveBulkScalar ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'NULL' at line 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.Admin_BulkUpload_Datamodel.SaveBulkScalar(ScalerApplication objRole, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\Admin_Bulkupload_Datamodel.cs:line 201
+ [18/04/2023 03:48:53.808 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [18/04/2023 03:49:01.160 PM]- USERNAME :PFPCLTN  METHOD NAME  : ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): Data too long for column 'In_buyer_name' at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.NewPAWHSBatch10142_DataModel.SaveBatchCreationHeder(PAWHSNewBatchCreation_Save_Context objContext, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\NewPAWHSBatch10142_DataModel.cs:line 76
+ [18/04/2023 03:49:01.654 PM]- USERNAME :PFPCLTN  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 62
+ [18/04/2023 03:50:51.795 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [18/04/2023 03:53:49.640 PM]- USERNAME :PFPCLTN  METHOD NAME  : ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): Data too long for column 'In_buyer_name' at row 1
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.NewPAWHSBatch10142_DataModel.SaveBatchCreationHeder(PAWHSNewBatchCreation_Save_Context objContext, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_DataModel\NewPAWHSBatch10142_DataModel.cs:line 76
+ [18/04/2023 03:53:59.532 PM]- USERNAME :PFPCLTN  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 62
+ [18/04/2023 03:57:09.819 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [18/04/2023 03:57:17.836 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [18/04/2023 03:57:49.880 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [18/04/2023 04:09:07.115 PM]- System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.BatchDetailsBasedonDestination(String org, String locn, String user, String lang, String destination, String locn_code, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 220
+ [18/04/2023 04:09:25.875 PM]- USERNAME :PFPCLTN  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 163
+ [15/06/2023 05:57:47.413 PM]- USERNAME :admin  METHOD NAME  :GetMasterCodeScreenId_db ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): Host 'DESKTOP-NDF26KO' is not allowed to connect to this MySQL server
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FFI_DataModel.MasterDefinition_DB.GetMasterCodeScreenId_db(String org, String locn, String user, String lang, String screen_code, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_DataModel\MasterDefinition_DB.cs:line 287
+ [15/06/2023 05:59:41.081 PM]- USERNAME :admin  METHOD NAME  :GetMasterCodeScreenId_db ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): Host 'DESKTOP-NDF26KO' is not allowed to connect to this MySQL server
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FFI_DataModel.MasterDefinition_DB.GetMasterCodeScreenId_db(String org, String locn, String user, String lang, String screen_code, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_DataModel\MasterDefinition_DB.cs:line 287
+ [15/06/2023 06:03:52.174 PM]- USERNAME :admin  METHOD NAME  :GetMasterCodeScreenId_db ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): Host 'DESKTOP-NDF26KO' is not allowed to connect to this MySQL server
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at FFI_DataModel.MasterDefinition_DB.GetMasterCodeScreenId_db(String org, String locn, String user, String lang, String screen_code, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_DataModel\MasterDefinition_DB.cs:line 287
+ [16/06/2023 01:10:34.171 PM]- USERNAME :admin  METHOD NAME  :GetMasterCodeScreenId_db ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'out_master_rowid' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at FFI_DataModel.MasterDefinition_DB.GetMasterCodeScreenId_db(String org, String locn, String user, String lang, String screen_code, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_DataModel\MasterDefinition_DB.cs:line 289
+ [28/08/2023 11:20:05.179 AM]- USERNAME :lrp2  METHOD NAME  : ERROR  : MySql.Data.MySqlClient.MySqlException (0x80004005): Lock wait timeout exceeded; try restarting transaction
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at FFI_DataModel.NewPAWHSBatch10142_DataModel.SaveBatchCreationHeder(PAWHSNewBatchCreation_Save_Context objContext, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_DataModel\NewPAWHSBatch10142_DataModel.cs:line 76
+ [28/08/2023 11:20:05.895 AM]- USERNAME :lrp2  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 62
+ [28/08/2023 11:40:04.746 AM]- USERNAME :lrp2  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 62
+ [28/08/2023 12:22:40.911 PM]- call AllPOListcall ICDMOB_fetch_stockAdjustment_list('lrp2', 'NKPCL', 'up','en_US','ALL','.','.','.' )
+ [28/08/2023 12:24:37.849 PM]- USERNAME :lrp2  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 1.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 163
+ [28/08/2023 12:38:51.737 PM]- USERNAME :lrp2  METHOD NAME  :.ctor ERROR  : System.IndexOutOfRangeException: There is no row at position 1.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at FFI_Service.NewPAWHSBatch10142Service.FectNewPAWHSBatchCreation(String org, String locn, String user, String lang, Int32 batch_rowid, String batch_no, String ConString) in D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Service\NewPAWHSBatch10142Service.cs:line 163

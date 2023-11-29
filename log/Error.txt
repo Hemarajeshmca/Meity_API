@@ -1,0 +1,6 @@
+ [17/09/2020 11:50:20.040 AM]- MySql.Data.MySqlClient.MySqlException (0x80004005): Mobile User Id Password Wrong
+   at FFI_Service.Mobile_FDR_Login_srv.GetAllFdrLogin_Srv(String org, String locn, String user, String lang, String In_user_code, String In_user_pwd, String Mysql) in D:\VSS\Kanchi_Api\FFI_Service\Mobile_FDR_Login_srv.cs:line 21
+   at FFI_API.Controllers.Mobile_FDR_LoginController.FdrLogin(String org, String locn, String user, String lang, String instance, String In_user_code, String In_user_pwd) in D:\VSS\Kanchi_Api\FFI_API\Controllers\Mobile_FDR_LoginController.cs:line 49
+ [17/09/2020 12:22:51.245 PM]- System.ArgumentException: Column 'EC_ADS_HOUSEPucca' does not belong to table .
+   at FFI_Service.Mobile_FDR_FDetailFetch_srv.GetAllFarmerdetailfetch_Srv(FarmerdetailfetchContext objfarmer, String Mysql) in D:\VSS\Kanchi_Api\FFI_Service\Mobile_FDR_FDetailFetch_srv.cs:line 22
+   at FFI_API.Controllers.Mobile_FDR_FDetailFetchController.Farmerdetailfetch(FarmerdetailfetchContext objfarmer) in D:\VSS\Kanchi_Api\FFI_API\Controllers\Mobile_FDR_FDetailFetchController.cs:line 49

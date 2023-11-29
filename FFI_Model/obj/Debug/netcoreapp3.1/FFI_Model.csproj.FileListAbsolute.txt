@@ -1,0 +1,182 @@
+E:\API_KANCHI\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+E:\API_KANCHI\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+E:\API_KANCHI\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+E:\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+E:\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+E:\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+E:\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+E:\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Kanchi-Solutions\API_KANCHI\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\Mohan\Kanchi_Api-Com-42\Kanchi_Api-Com-42\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\apilrs\kanchi-single-singon-apicode\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\apilrs\Kanchi_Api-103\Kanchi_Api-103\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API9\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API10\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Gitlab\Kanchi_UP_Api-08\Kanchi_UP_Api-08\API11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Arul\LIVE-UPPRO\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\Ramya\Kanchi\Projects\Uttra Pradesh\Production\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+C:\Users\flexidev\Downloads\From Vinoth\Kanchi_UP_Api-11\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Kanchi_Api-UP-17\Kanchi_Api-UP-17\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+F:\Aruljothi\Kanchi_Api-UP-18\Kanchi_Api-UP-18\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\host\kanchi-ss-api-uppro\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\host\kanchi-ss-api-uppro\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\host\kanchi-ss-api-uppro\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\host\kanchi-ss-api-uppro\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.AssemblyReference.cache
+D:\host\kanchi-ss-api-uppro\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\host\kanchi-ss-api-uppro\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\host\kanchi-ss-api-uppro\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\host\kanchi-ss-api-uppro\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\host\kanchi-ss-api-uppro\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\host\kanchi-ss-api-uppro\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.AssemblyReference.cache
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\up\02-02-2022\Kanchi_UP_Api-38\Kanchi_UP_Api-38\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.AssemblyReference.cache
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\up\02-02-2022\Kanchi_UP_Api-40\Kanchi_UP_Api-40\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.AssemblyReference.cache
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\MIT UP\Kanchi_UP_mit_Api-02\Kanchi_UP_mit_Api-02\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.AssemblyReference.cache
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\MIT UP\Kanchi_UP_mit_Api-03\Kanchi_UP_mit_Api-03\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csprojAssemblyReference.cache
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+E:\Prema\Meity Kanchi\GIT\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.deps.json
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.dll
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\bin\Debug\netcoreapp3.1\FFI_Model.pdb
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.AssemblyReference.cache
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfoInputs.cache
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.AssemblyInfo.cs
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.csproj.CoreCompileInputs.cache
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.dll
+D:\Live\Meity\Updated\FEB-06-2023\API\meity-web-api\FFI_Model\obj\Debug\netcoreapp3.1\FFI_Model.pdb
